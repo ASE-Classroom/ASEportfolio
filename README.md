@@ -54,9 +54,13 @@ Keep your progress up to date below. Put "DONE" after each section, when you hav
 	If else	6 marks
 #### 7 Replaced Methods (2) 5 marks
 
-Remember that the BOOSE library is a work in progress and is likely to have bug fixes and updates. Check Discord and/of myBeckett to see if updates have been released.
-Report any bugs to @dmullier
+
 #### 8 Additional (web version, text-based version, extension to BOOSE itself, etc, discuss with your tutor) (2) 10 marks
 
 
 ### Tutor's Feedback
+
+
+### note
+Remember that the BOOSE library is a work in progress and is likely to have bug fixes and updates. Check Discord and/of myBeckett to see if updates have been released.
+Report any bugs to @dmullier
