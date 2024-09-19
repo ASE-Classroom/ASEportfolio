@@ -64,3 +64,4 @@ Keep your progress up to date below. Put "DONE" after each section, when you hav
 ### note
 Remember that the BOOSE library is a work in progress and is likely to have bug fixes and updates. Check Discord and/of myBeckett to see if updates have been released.
 Report any bugs to @dmullier
+v1.0
