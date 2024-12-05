@@ -10,8 +10,3 @@ moveto 100, 100
 circle radius
 pen 0,green,0
 rect width, height
-pen red,0,0
-moveto 150, 150
-circle radius
-pen 0,green,0
-rect width, height
